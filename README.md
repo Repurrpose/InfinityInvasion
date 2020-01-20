@@ -6,5 +6,5 @@ mobile HTML5 Game Development.
 It is released under both the GPL and MIT license to do with what you will.
 
 Playable Version: 
-https://repurrpose.github.io/InfinityInvasion
+https://repurrpose.github.io/InfinityInvasion/index.html
 
